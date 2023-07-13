@@ -1,0 +1,7 @@
+com\accounts\config\JpaConfig.class
+com\accounts\main\Account.class
+com\accounts\main\AccountController.class
+com\accounts\main\AccountService.class
+com\accounts\main\AccountRepository.class
+com\accounts\config\WebMvcConfig.class
+com\accounts\config\WebAppInitializer.class
